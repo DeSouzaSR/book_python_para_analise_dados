@@ -1,2 +1,3 @@
-# book_python_para_analise_dados
-Code repository for reading the book "Python for Data Analysis" by Wes McKinney
+# Book Python para Análise de Dados
+
+Code repository for reading and studying the book [Python para Análise de Dados](https://www.google.com.br/books/edition/Python_para_an%C3%A1lise_de_dados/Oj5FDwAAQBAJ?hl=pt-PT&gbpv=0) by Wes McKinney, a portuguese edition for [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_4?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1V3OTY935ZSB5&dib=eyJ2IjoiMSJ9.mPK50KsuhdOu3siz0pjKPEZTag3qQRqrWZWZxVNSJeChcamVQL9LC1hzW2Xv3-jwg88rSiOjXkUvqE73eV_DJ4BaS6G1L24YO7b6pwZROyHm9r9ZvGQnZxPbzebfVNxRBY3_dMGUFOk7mcplTp3V88HIQZepl8WLEHkqTUh4z0XMouLK5d24WDRqmnA3xhez8b5CAssBjqbAOqqGifO_UUB0pCBFJw7u7wCFunc1pBI.KbEHMnjkya37fhLb4sHoNIWUarVISxy-Tu5VeYH3hhg&dib_tag=se&keywords=Python-Data-Analysis-Wrangling-Jupyter&qid=1727470547&sprefix=python-data-analysis-wrangling-jupyter%2Caps%2C372&sr=8-4).
